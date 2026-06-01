@@ -3,6 +3,15 @@
 Thumbs.db
 desktop.ini
 
+# IDE and local editor folders
+.vscode/
+.claude/
+.codex/
+.idea/
+.vs/
+.history/
+*.code-workspace
+
 # Office temporary files
 ~$*
 *.tmp
@@ -12,3 +21,6 @@ desktop.ini
 .cache/
 tmp/
 temp/
+
+# Local raw files shared by team members
+raw/team_members/
