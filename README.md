@@ -1,14 +1,14 @@
 # VOL-I Sanayide Robotik Uygulamalar
 
-Bu repo, Deneyap / Teknofest VOL-I Sanayide Robotik Uygulamalar calismasi icin dokumanlari, konsept modeli ve proje gorsellerini duzenli tutar.
+Bu repo, Deneyap / Teknofest VOL-I Sanayide Robotik Uygulamalar çalışması için dokümanları, konsept modeli ve proje görsellerini düzenli tutar.
 
-## Klasor yapisi
+## Klasör yapısı
 
-- `docs/`: Sartname ve teknik yeterlilik rapor sablonu.
-- `models/`: 3B konsept model dosyalari.
-- `media/photos/`: Proje ve sunum gorselleri.
+- `docs/`: Şartname ve teknik yeterlilik rapor şablonu.
+- `models/`: 3B konsept model dosyaları.
+- `media/photos/`: Proje ve sunum görselleri.
 
-## Dosya notlari
+## Dosya notları
 
-- Dosya adlari Git ve farkli isletim sistemleriyle daha sorunsuz calismasi icin bosluksuz ve tarih-saat tabanli duzenlendi.
-- PDF, DOCX, STL ve gorsel dosyalari binary olarak isaretlendi.
+- Dosya adları Git ve farklı işletim sistemleriyle daha sorunsuz çalışması için boşluksuz ve tarih-saat tabanlı düzenlendi.
+- PDF, DOCX, STL ve görsel dosyaları binary olarak işaretlendi.
