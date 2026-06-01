@@ -21,6 +21,4 @@ desktop.ini
 .cache/
 tmp/
 temp/
-
-# Local raw files shared by team members
-raw/team_members/
+wip/
