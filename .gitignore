@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary files
+~$*
+*.tmp
+*.bak
+
+# Local working folders
+.cache/
+tmp/
+temp/
