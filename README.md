@@ -17,6 +17,9 @@ Bu repo, Deneyap / TEKNOFEST 2026 Sanayide Robotik Uygulamalar Yarışması içi
 - `data/`: T3KYS başvuru bilgileri ve takım içi görev dağılımı gibi yapılandırılmış veriler.
 - `models/`: 3B konsept model dosyaları.
 - `media/photos/`: Proje ve sunum fotoğrafları.
+- `media/logos/`: VOL-İ logo sürümleri ve kullanım varyantları.
+- `media/logos/full-logo/`: Tam logo ve kare/arka plan varyantları.
+- `media/logos/wordmark/`: Sadece yazıdan oluşan yatay ve kare logo varyantları.
 - `media/team_task_distribution.svg`: Danışman öğretmenin verdiği görev dağılımı tablosunun görsel hali.
 
 ## Veri Dosyaları
