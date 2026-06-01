@@ -1,0 +1,78 @@
+{
+  "source": "Danışman öğretmen tarafından verilen görev dağılımı",
+  "members": [
+    {
+      "name": "Ayşenur Ünal",
+      "responsibilities": [
+        "ALGORİTMALAR",
+        "YAZILIM"
+      ]
+    },
+    {
+      "name": "Yusuf Erdem Yazğan",
+      "responsibilities": [
+        "TAKIM TANITIMI",
+        "ELEKTRONİK",
+        "ALGORİTMALAR",
+        "YAZILIM"
+      ]
+    },
+    {
+      "name": "Berra Nisa Şahin",
+      "responsibilities": [
+        "ROBOT ÜST YAPI"
+      ]
+    },
+    {
+      "name": "Beyzanur Can",
+      "responsibilities": [
+        "ROBOT ÜST YAPI"
+      ]
+    },
+    {
+      "name": "Ebrar Ölçekçioğlu",
+      "responsibilities": [
+        "MEKANİK"
+      ]
+    },
+    {
+      "name": "Eymen Asaf Aral",
+      "responsibilities": [
+        "ELEKTRONİK"
+      ]
+    },
+    {
+      "name": "Furkan Dönmez",
+      "responsibilities": [
+        "MEKANİK"
+      ]
+    },
+    {
+      "name": "Talha Aydın",
+      "responsibilities": [
+        "ARAÇ TASARIMI",
+        "ELEKTRONİK"
+      ]
+    },
+    {
+      "name": "Muhammed Osman Temiz",
+      "responsibilities": [
+        "MEKANİK"
+      ]
+    },
+    {
+      "name": "Nurgül Solmaz Dal",
+      "responsibilities": [
+        "ROBOT ÜST YAPI"
+      ]
+    },
+    {
+      "name": "Mert Savar",
+      "responsibilities": [
+        "ARAÇ TASARIMI",
+        "ELEKTRONİK",
+        "ALGORİTMALAR"
+      ]
+    }
+  ]
+}

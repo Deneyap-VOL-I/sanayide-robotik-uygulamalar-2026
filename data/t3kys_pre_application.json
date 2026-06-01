@@ -1,0 +1,19 @@
+{
+  "source": "T3KYS 2026 Robotics Applications in Industry Competition Pre-Application Status",
+  "competition": {
+    "year": 2026,
+    "name": "Robotics Applications in Industry Competition",
+    "stage": "Pre-Application"
+  },
+  "project": {
+    "title": "Otonom Endüstriyel Forklift Mobil Robot",
+    "description": "Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otonom bir forklift mobil robot geliştirmeyi amaçlamaktadır. Robot; haritalama, rota takibi, QR kod algılama, görüntü işleme destekli çizgi takibi, engel algılama ve fabrika otomasyon sistemiyle haberleşme özellikleriyle palet üzerindeki yükleri belirlenen alma noktasından alıp bırakma noktasına taşıyacaktır. Proje kapsamında güvenli, verimli ve geliştirilebilir bir otonom taşıma sistemi tasarlanarak sanayide robotik uygulamalara uygun bir çözüm ortaya konulması hedeflenmektedir."
+  },
+  "history": {
+    "participated_in_teknofest_competitions_before": true
+  },
+  "declarations": {
+    "accepted_competition_specifications": true,
+    "accepted_academic_publication_reporting": true
+  }
+}

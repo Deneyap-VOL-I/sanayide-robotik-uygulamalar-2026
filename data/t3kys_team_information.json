@@ -1,0 +1,19 @@
+{
+  "source": "T3KYS Team Update",
+  "team": {
+    "name": "VOL-İ",
+    "foundation_year": 2026,
+    "type": "Organization",
+    "organization_type": "DENEYAP TEKNOLOJİ ATÖLYELERİ",
+    "institution_type": "TALAS DENEYAP TEKNOLOJİ ATÖLYESİ",
+    "education_level": "High School"
+  },
+  "location": {
+    "country": "TÜRKİYE",
+    "city": "KAYSERİ",
+    "district": "TALAS"
+  },
+  "introduction": {
+    "text": "VOL-İ takımı, sanayide robotik uygulamalar alanında yenilikçi, güvenli ve uygulanabilir çözümler geliştirmek amacıyla kurulmuştur. Takımımız; otonom hareket, mekanik tasarım, elektronik kontrol, yazılım geliştirme, görüntü işleme ve endüstriyel otomasyon alanlarında çalışmalar yapmayı hedeflemektedir. Sanayide Robotik Uygulamalar Yarışması kapsamında fabrika içi lojistik süreçlerine uygun, yük taşıyabilen ve görevlerini otonom şekilde yerine getirebilen bir mobil robot sistemi geliştirmeyi amaçlıyoruz. Takım üyelerimiz; araştırma, tasarım, üretim, test ve problem çözme süreçlerinde aktif görev alarak hem teknik bilgi ve deneyimlerini artırmayı hem de gerçek sanayi ihtiyaçlarına yönelik işlevsel bir proje ortaya koymayı hedeflemektedir. VOL-İ olarak takım çalışması, özgün tasarım ve sürdürülebilir geliştirme anlayışıyla yarışmaya hazırlanıyoruz."
+  }
+}
