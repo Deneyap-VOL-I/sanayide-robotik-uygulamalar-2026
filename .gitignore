@@ -16,6 +16,8 @@ desktop.ini
 ~$*
 *.tmp
 *.bak
+*.docx#
+*.doc#
 
 # Local working folders
 .cache/
