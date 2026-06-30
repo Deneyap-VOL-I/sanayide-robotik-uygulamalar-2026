@@ -18,7 +18,19 @@ Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otono
 
 ### Görev Dağılımı
 
-![VOL-İ Takımı Görev Dağılımı](media/team_task_distribution.svg)
+| Kişiler | Görev Adı |
+|---|---|
+| Ayşenur Ünal | Algoritmalar, Yazılım |
+| Yusuf Erdem Yazğan | Takım Tanıtımı, Elektronik, Algoritmalar, Yazılım |
+| Berra Nisa Şahin | Robot Üst Yapı |
+| Beyzanur Can | Robot Üst Yapı |
+| Ebrar Ölçekçioğlu | Mekanik |
+| Eymen Asaf Aral | Elektronik |
+| Furkan Dönmez | Mekanik |
+| Talha Aydın | Araç Tasarımı, Elektronik |
+| Muhammed Osman Temiz | Mekanik |
+| Nurgül Solmaz Dal | Robot Üst Yapı |
+| Mert Savar | Araç Tasarımı, Elektronik, Algoritmalar |
 
 ## Repo ve Dosya Düzeni
 
