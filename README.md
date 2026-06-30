@@ -2,7 +2,9 @@
 
 Bu repo, Deneyap / TEKNOFEST 2026 Sanayide Robotik Uygulamalar Yarışması için VOL-İ takımının başvuru verilerini, rapor dokümanlarını, görev dağılımını, konsept modelini ve proje görsellerini düzenli tutar.
 
-## Proje Özeti
+## Proje Bilgileri
+
+### Proje Özeti
 
 - Proje adı: Otonom Endüstriyel Forklift Mobil Robot
 - Takım: VOL-İ
@@ -10,7 +12,17 @@ Bu repo, Deneyap / TEKNOFEST 2026 Sanayide Robotik Uygulamalar Yarışması içi
 - Yarışma: 2026 Robotics Applications in Industry Competition
 - Hedef: Fabrika içi lojistik süreçlerinde paletli yükleri otonom şekilde taşıyabilen güvenli ve geliştirilebilir bir mobil robot sistemi tasarlamak.
 
-## Klasör Yapısı
+### Proje Açıklaması
+
+Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otonom bir forklift mobil robot geliştirmeyi amaçlamaktadır. Robot; haritalama, rota takibi, QR kod algılama, görüntü işleme destekli çizgi takibi, engel algılama ve fabrika otomasyon sistemiyle haberleşme özellikleriyle palet üzerindeki yükleri belirlenen alma noktasından alıp bırakma noktasına taşıyacaktır.
+
+### Görev Dağılımı
+
+![VOL-İ Takımı Görev Dağılımı](media/team_task_distribution.svg)
+
+## Repo ve Dosya Düzeni
+
+### Klasör Yapısı
 
 - `docs/reference/`: Şartname ve elle düzenlenmeyecek resmi/kaynak şablonlar.
 - `docs/reports/`: Doldurulmuş veya düzenlenen teknik yeterlilik raporları.
@@ -23,19 +35,19 @@ Bu repo, Deneyap / TEKNOFEST 2026 Sanayide Robotik Uygulamalar Yarışması içi
 - `media/logos/archive/`: Önceki logo denemeleri ve kaynak dosyaları.
 - `media/team_task_distribution.svg`: Danışman öğretmenin verdiği görev dağılımı tablosunun görsel hali.
 
-## Veri Dosyaları
+### Veri Dosyaları
 
 - `data/t3kys_team_information.json`: T3KYS takım bilgileri, kurum bilgileri, konum ve takım tanıtım metni.
 - `data/t3kys_pre_application.json`: Ön başvuru proje adı, proje açıklaması, TEKNOFEST geçmişi ve onaylar.
 - `data/team_task_distribution.json`: Takım üyeleri ve danışman öğretmen tarafından verilen görev dağılımı.
 
-## Doküman Düzeni
+### Doküman Düzeni
 
 - `docs/reference/sartname.pdf`: Yarışma şartnamesi. Doğrudan düzenlenmemeli.
 - `docs/reference/teknik_yeterlilik_rapor_sablonu.docx`: Hiç elle değiştirilmemiş rapor şablonu. Doğrudan düzenlenmemeli.
 - `docs/reports/teknik_yeterlilik_raporu.docx`: Doldurulmuş veya üzerinde çalışılan teknik yeterlilik raporu.
 
-## Çalışma Notları
+### Çalışma Notları
 
 - Dosya adları Git ve farklı işletim sistemleriyle daha sorunsuz çalışması için boşluksuz ve tarih-saat tabanlı düzenlendi.
 - PDF, DOCX, STL ve görsel dosyaları binary olarak işaretlendi.
