@@ -3,7 +3,7 @@
 Thumbs.db
 desktop.ini
 
-# IDE and local editor folders
+# IDE, local editor and agent folders
 .vscode/*
 !.vscode/
 !.vscode/extensions.json
