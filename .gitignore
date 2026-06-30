@@ -4,7 +4,9 @@ Thumbs.db
 desktop.ini
 
 # IDE and local editor folders
-.vscode/
+.vscode/*
+!.vscode/
+!.vscode/extensions.json
 .claude/
 .codex/
 .idea/
@@ -12,7 +14,7 @@ desktop.ini
 .history/
 *.code-workspace
 
-# Office temporary files
+# Temporary files
 ~$*
 *.tmp
 *.bak
