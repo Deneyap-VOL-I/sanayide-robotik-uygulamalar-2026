@@ -29,10 +29,6 @@ Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otono
 - `data/`: T3KYS başvuru bilgileri ve takım içi görev dağılımı gibi yapılandırılmış veriler.
 - `models/`: 3B konsept model dosyaları.
 - `media/photos/`: Proje ve sunum fotoğrafları.
-- `media/logos/`: VOL-i logo sürümleri ve kullanım varyantları.
-- `media/logos/svg/`: Vektörel logo kaynakları.
-- `media/logos/png/`: Rapor, sunum ve paylaşım için dışa aktarılmış PNG logo varyantları.
-- `media/logos/archive/`: Önceki logo denemeleri ve kaynak dosyaları.
 - `media/team_task_distribution.svg`: Danışman öğretmenin verdiği görev dağılımı tablosunun görsel hali.
 
 ### Veri Dosyaları
@@ -54,3 +50,4 @@ Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otono
 - Yeni yüklenecek hiç elle değiştirilmemiş kaynak dokümanlar `docs/reference/` altında tutulmalı.
 - `docs/reference/` altındaki dosyalar doğrudan düzenlenmemeli; düzenleme gerekiyorsa önce `docs/reports/` altında bir çalışma kopyası oluşturulmalı.
 - T3KYS ekranlarından alınan bilgiler JSON olarak `data/` altında tutulur. Böylece metinler rapor, sunum veya kod tarafında tekrar kullanılabilir.
+- VOL-i takım/organizasyon logo kaynakları bu yarışma reposunda tutulmaz; ana logo arşivi [Deneyap-VOL-I/brand-assets](https://github.com/Deneyap-VOL-I/brand-assets) reposundadır.
