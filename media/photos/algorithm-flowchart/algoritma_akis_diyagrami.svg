@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1450" viewBox="0 0 1000 1450">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#111111" />
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.1" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+
+<text x="500.0" y="45" font-family="Arial, DejaVu Sans, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#000">Algoritma Akış Diyagramı</text>
+<rect x="390" y="75" width="220" height="48" rx="24.0" ry="24.0" fill="#ffffff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="500.0" y="99.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Başla</text>
+<rect x="240" y="145" width="470" height="70" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="168.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Sistem ilklendirme</text>
+<text x="475.0" y="191.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Batarya, sensör, haberleşme ve acil stop kontrolü</text>
+<polygon points="475.0,225.0 617.5,270 475.0,315.0 332.5,270" fill="#fff4d6" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="258.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Güvenlik hatası</text>
+<text x="475.0" y="281.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">var mı?</text>
+<rect x="745" y="235" width="210" height="68" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="850.0" y="257.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Güvenli duruş</text>
+<text x="850.0" y="280.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Hata bildirimi</text>
+<rect x="780" y="322" width="150" height="48" rx="24.0" ry="24.0" fill="#ffffff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="855.0" y="346.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Bitir</text>
+<rect x="275" y="338" width="400" height="68" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="360.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Konumlandırma</text>
+<text x="475.0" y="384.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">LiDAR + odometri + encoder</text>
+<polygon points="475.0,445.0 617.5,490 475.0,535.0 332.5,490" fill="#fff4d6" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="478.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Görev bilgisi</text>
+<text x="475.0" y="501.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">var mı?</text>
+<rect x="745" y="456" width="210" height="68" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="850.0" y="490.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Bekleme / görev alma</text>
+<rect x="260" y="565" width="430" height="70" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="588.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Rota planlama</text>
+<text x="475.0" y="612.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Hedefe güvenli yol oluşturma</text>
+<polygon points="475.0,645.0 617.5,690 475.0,735.0 332.5,690" fill="#fff4d6" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="678.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Engel algılandı</text>
+<text x="475.0" y="701.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">mı?</text>
+<rect x="745" y="656" width="210" height="68" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="850.0" y="678.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Yavaşla / dur /</text>
+<text x="850.0" y="701.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">yeniden planla</text>
+<rect x="260" y="775" width="430" height="70" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="798.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Hedefe yaklaşma</text>
+<text x="475.0" y="822.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Kamera + QR + hizalama</text>
+<polygon points="475.0,850.0 617.5,895 475.0,940.0 332.5,895" fill="#fff4d6" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="883.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Nokta doğrulandı</text>
+<text x="475.0" y="906.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">mı?</text>
+<rect x="745" y="862" width="210" height="68" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="850.0" y="884.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Hizalama düzelt /</text>
+<text x="850.0" y="907.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">tekrar algıla</text>
+<rect x="260" y="980" width="430" height="70" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="1003.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Çatal kontrolü</text>
+<text x="475.0" y="1027.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Yük alma / bırakma</text>
+<polygon points="475.0,1055.0 617.5,1100 475.0,1145.0 332.5,1100" fill="#fff4d6" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="1088.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">İşlem tamamlandı</text>
+<text x="475.0" y="1111.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">mı?</text>
+<rect x="745" y="1067" width="210" height="68" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="850.0" y="1089.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Konum ve çatal</text>
+<text x="850.0" y="1112.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">ayarını düzelt</text>
+<rect x="260" y="1185" width="430" height="70" rx="0" ry="0" fill="#dbeeff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="475.0" y="1208.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Durum bildirimi</text>
+<text x="475.0" y="1231.5" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Görev tamamlandı / hata durumu</text>
+<rect x="390" y="1285" width="220" height="48" rx="24.0" ry="24.0" fill="#ffffff" stroke="#111111" stroke-width="2" filter="url(#shadow)"/>
+<text x="500.0" y="1309.0" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#000">Bitir</text>
+<line x1="475.0" y1="123" x2="475.0" y2="145" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="475.0" y1="215" x2="475.0" y2="225" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="475.0" y1="315" x2="475.0" y2="338" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="520.0" y="333" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Hayır</text>
+<line x1="475.0" y1="406" x2="475.0" y2="445" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="475.0" y1="535" x2="475.0" y2="565" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="515.0" y="555" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Evet</text>
+<line x1="475.0" y1="635" x2="475.0" y2="645" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="475.0" y1="735" x2="475.0" y2="775" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="520.0" y="760" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Hayır</text>
+<line x1="475.0" y1="845" x2="475.0" y2="850" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="475.0" y1="940" x2="475.0" y2="980" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="515.0" y="965" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Evet</text>
+<line x1="475.0" y1="1050" x2="475.0" y2="1055" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="475.0" y1="1145" x2="475.0" y2="1185" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="515.0" y="1170" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Evet</text>
+<line x1="475.0" y1="1255" x2="475.0" y2="1285" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="617.0" y1="270" x2="745" y2="270" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="690" y="255" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Evet</text>
+<line x1="850.0" y1="303" x2="850.0" y2="322" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="617.0" y1="490" x2="745" y2="490" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="690" y="475" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Hayır</text>
+<line x1="617.0" y1="690" x2="745" y2="690" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="690" y="675" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Evet</text>
+<polyline points="850.0,656 850.0,610 690,610" fill="none" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)" stroke-linejoin="round"/>
+<line x1="617.0" y1="895" x2="745" y2="895" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="690" y="880" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Hayır</text>
+<polyline points="850.0,862 850.0,810 690,810" fill="none" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)" stroke-linejoin="round"/>
+<line x1="617.0" y1="1100" x2="745" y2="1100" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)"/>
+<text x="690" y="1085" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#000">Hayır</text>
+<polyline points="850.0,1067 850.0,1015 690,1015" fill="none" stroke="#111111" stroke-width="2.4" marker-end="url(#arrow)" stroke-linejoin="round"/>
+</svg>
