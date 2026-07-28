@@ -8,6 +8,7 @@ desktop.ini
 !.vscode/
 !.vscode/extensions.json
 .claude/
+.agents/
 .codex/
 .idea/
 .vs/
