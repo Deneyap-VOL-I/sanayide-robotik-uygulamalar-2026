@@ -12,6 +12,13 @@ Bu repo, Deneyap / TEKNOFEST 2026 Sanayide Robotik Uygulamalar Yarışması içi
 - Yarışma: 2026 Robotics Applications in Industry Competition
 - Hedef: Fabrika içi lojistik süreçlerinde paletli yükleri otonom şekilde taşıyabilen güvenli ve geliştirilebilir bir mobil robot sistemi tasarlamak.
 
+### Yarışma Durumu
+
+- T3KYS başvuru süreci PER aşamasına kadar ilerlemiştir.
+- PER hakem değerlendirmesi sonucunda rapor 44.00 / 100 puan almış ve T3KYS ekranında PER Eliminated Status durumuna düşmüştür.
+- Gönderilen Proje Detay Raporu kopyaları `docs/submissions/2026/per/` altında arşivlenmiştir.
+- Hakem geri bildirimi ve çıkarılan dersler `docs/evaluation/` altında tutulur.
+
 ### Proje Açıklaması
 
 Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otonom bir forklift mobil robot geliştirmeyi amaçlamaktadır. Robot; haritalama, rota takibi, QR kod algılama, görüntü işleme destekli çizgi takibi, engel algılama ve fabrika otomasyon sistemiyle haberleşme özellikleriyle palet üzerindeki yükleri belirlenen alma noktasından alıp bırakma noktasına taşıyacaktır.
@@ -37,7 +44,9 @@ Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otono
 ### Klasör Yapısı
 
 - `docs/reference/`: Şartname ve elle düzenlenmeyecek resmi/kaynak şablonlar.
-- `docs/reports/`: Doldurulmuş veya düzenlenen teknik yeterlilik raporları.
+- `docs/reports/`: Doldurulmuş veya üzerinde çalışılan rapor dosyaları.
+- `docs/submissions/`: T3KYS sistemine gerçekten gönderilen rapor kopyaları.
+- `docs/evaluation/`: Hakem değerlendirmeleri, puan kırılımları ve post-mortem notları.
 - `data/`: T3KYS başvuru bilgileri ve takım içi görev dağılımı gibi yapılandırılmış veriler.
 - `models/`: 3B konsept model dosyaları.
 - `media/photos/`: Proje ve sunum fotoğrafları.
@@ -52,8 +61,11 @@ Bu proje, fabrika içi lojistik ve depo süreçlerinde kullanılmak üzere otono
 ### Doküman Düzeni
 
 - `docs/reference/sartname.pdf`: Yarışma şartnamesi. Doğrudan düzenlenmemeli.
-- `docs/reference/teknik_yeterlilik_rapor_sablonu.docx`: Hiç elle değiştirilmemiş rapor şablonu. Doğrudan düzenlenmemeli.
-- `docs/reports/teknik_yeterlilik_raporu.docx`: Doldurulmuş veya üzerinde çalışılan teknik yeterlilik raporu.
+- `docs/reference/teknik_yeterlilik_raporu_sablonu.docx`: Hiç elle değiştirilmemiş rapor şablonu. Doğrudan düzenlenmemeli.
+- `docs/reports/teknik_yeterlilik_raporu/teknik_yeterlilik_raporu.docx`: Doldurulmuş teknik yeterlilik raporu.
+- `docs/reports/proje_detay_raporu/proje_detay_raporu.docx`: Üzerinde çalışılan proje detay raporu.
+- `docs/submissions/2026/per/proje_detay_raporu_submitted.pdf`: PER aşamasında gönderilen proje detay raporu PDF arşivi.
+- `docs/evaluation/per_referee_feedback.md`: PER hakem geri bildirimi ve puan kırılımı.
 
 ### Çalışma Notları
 
